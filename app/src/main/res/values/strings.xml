@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">History Navigator</string>
+    <string name="EditTextNumber">Enter Age</string>
+    <string name="Button">Generate History</string>
+    <string name="Clear">Clear</string>
+    <string name="imageView">Background</string>
+    <string name="TextInputLayout">History</string>
+</resources>
